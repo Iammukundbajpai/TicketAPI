@@ -1,4 +1,4 @@
-<img src="https://socialify.git.ci/iammukundbajpai/ticket-API/image?description=1&language=1&name=1&owner=1&stargazers=1&theme=Light" alt="ticket-API" width="640" height="320" />
+
 
 *A ticket API that can be used as an internal tool in an organization to raise and manage tickets.*
 
